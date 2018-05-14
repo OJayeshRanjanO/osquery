@@ -1,0 +1,1201 @@
+[2018-05-14 05:12:20] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+
+
+[2018-05-14 05:12:21] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 3.0	MeM 0.3
+[2018-05-14 05:12:21] Process /usr/bin/osqueryd	CPU 10.0	MeM 1.4
+
+
+[2018-05-14 05:12:22] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 1.5	MeM 0.3
+[2018-05-14 05:12:22] Process /usr/bin/osqueryd	CPU 5.0	MeM 1.4
+
+
+[2018-05-14 05:12:23] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 1.0	MeM 0.3
+[2018-05-14 05:12:23] Process /usr/bin/osqueryd	CPU 3.3	MeM 1.4
+
+
+[2018-05-14 05:12:24] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.7	MeM 0.3
+[2018-05-14 05:12:24] Process /usr/bin/osqueryd	CPU 2.5	MeM 1.4
+
+
+[2018-05-14 05:12:25] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.6	MeM 0.3
+[2018-05-14 05:12:25] Process /usr/bin/osqueryd	CPU 2.0	MeM 1.4
+
+
+[2018-05-14 05:12:26] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.6	MeM 0.3
+[2018-05-14 05:12:26] Process /usr/bin/osqueryd	CPU 1.6	MeM 1.4
+
+
+[2018-05-14 05:12:27] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.5	MeM 0.3
+[2018-05-14 05:12:27] Process /usr/bin/osqueryd	CPU 1.4	MeM 1.4
+
+
+[2018-05-14 05:12:28] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.5	MeM 0.3
+[2018-05-14 05:12:28] Process /usr/bin/osqueryd	CPU 1.2	MeM 1.4
+
+
+[2018-05-14 05:12:29] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.4	MeM 0.3
+[2018-05-14 05:12:29] Process /usr/bin/osqueryd	CPU 1.1	MeM 1.4
+
+
+[2018-05-14 05:12:30] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.4	MeM 0.3
+[2018-05-14 05:12:30] Process /usr/bin/osqueryd	CPU 1.0	MeM 1.4
+
+
+[2018-05-14 05:12:31] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.3	MeM 0.3
+[2018-05-14 05:12:31] Process /usr/bin/osqueryd	CPU 0.9	MeM 1.4
+
+
+[2018-05-14 05:12:32] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.3	MeM 0.3
+[2018-05-14 05:12:32] Process /usr/bin/osqueryd	CPU 0.8	MeM 1.4
+
+
+[2018-05-14 05:12:33] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.3	MeM 0.3
+[2018-05-14 05:12:33] Process /usr/bin/osqueryd	CPU 0.7	MeM 1.4
+
+
+[2018-05-14 05:12:34] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.2	MeM 0.3
+[2018-05-14 05:12:34] Process /usr/bin/osqueryd	CPU 0.7	MeM 1.4
+
+
+[2018-05-14 05:12:35] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.2	MeM 0.3
+[2018-05-14 05:12:35] Process /usr/bin/osqueryd	CPU 0.6	MeM 1.4
+
+
+[2018-05-14 05:12:36] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.2	MeM 0.3
+[2018-05-14 05:12:36] Process /usr/bin/osqueryd	CPU 0.6	MeM 1.4
+
+
+[2018-05-14 05:12:38] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.2	MeM 0.3
+[2018-05-14 05:12:38] Process /usr/bin/osqueryd	CPU 0.6	MeM 1.4
+
+
+[2018-05-14 05:12:39] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.2	MeM 0.3
+[2018-05-14 05:12:39] Process /usr/bin/osqueryd	CPU 0.6	MeM 1.4
+
+
+[2018-05-14 05:12:40] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.2	MeM 0.3
+[2018-05-14 05:12:40] Process /usr/bin/osqueryd	CPU 0.6	MeM 1.4
+
+
+[2018-05-14 05:12:41] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.2	MeM 0.3
+[2018-05-14 05:12:41] Process /usr/bin/osqueryd	CPU 0.6	MeM 1.4
+
+
+[2018-05-14 05:12:42] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:42] Process /usr/bin/osqueryd	CPU 0.5	MeM 1.4
+
+
+[2018-05-14 05:12:43] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:43] Process /usr/bin/osqueryd	CPU 0.5	MeM 1.4
+
+
+[2018-05-14 05:12:44] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:44] Process /usr/bin/osqueryd	CPU 0.5	MeM 1.4
+
+
+[2018-05-14 05:12:45] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:45] Process /usr/bin/osqueryd	CPU 0.5	MeM 1.4
+
+
+[2018-05-14 05:12:46] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:46] Process /usr/bin/osqueryd	CPU 0.5	MeM 1.4
+
+
+[2018-05-14 05:12:47] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:47] Process /usr/bin/osqueryd	CPU 0.5	MeM 1.4
+
+
+[2018-05-14 05:12:48] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:48] Process /usr/bin/osqueryd	CPU 0.5	MeM 1.4
+
+
+[2018-05-14 05:12:49] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:49] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.4
+
+
+[2018-05-14 05:12:50] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:50] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.4
+
+
+[2018-05-14 05:12:51] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:51] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.4
+
+
+[2018-05-14 05:12:52] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:52] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.4
+
+
+[2018-05-14 05:12:53] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:53] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.4
+
+
+[2018-05-14 05:12:54] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:54] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.4
+
+
+[2018-05-14 05:12:55] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:55] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.4
+
+
+[2018-05-14 05:12:56] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:56] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.4
+
+
+[2018-05-14 05:12:57] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:57] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.4
+
+
+[2018-05-14 05:12:58] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:12:58] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:00] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:00] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:01] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:01] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:02] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:02] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:03] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:03] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:04] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:04] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:05] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:05] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:06] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:06] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:07] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:07] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:08] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:08] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:09] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:09] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:10] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:10] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:11] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:11] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:12] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:12] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:13] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:13] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:14] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:14] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:15] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:15] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:16] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:16] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:17] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:17] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:18] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:18] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:19] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:19] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:20] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:20] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:21] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:21] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:23] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:23] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:24] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:24] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:25] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:25] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:26] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:26] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:27] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:27] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.4
+
+
+[2018-05-14 05:13:28] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:28] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:29] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:29] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:30] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:30] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:31] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:31] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:32] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:32] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:33] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:33] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:34] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:34] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:35] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:35] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:36] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:36] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:37] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:37] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:38] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:38] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:39] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:39] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:40] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:40] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:41] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:41] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:42] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:42] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:43] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:43] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:44] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:44] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:45] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:45] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:46] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:46] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:47] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:47] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:48] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:48] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:50] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:50] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:51] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.1	MeM 0.3
+[2018-05-14 05:13:51] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:52] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:13:52] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:53] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:13:53] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:54] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:13:54] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:55] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:13:55] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:56] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:13:56] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:57] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:13:57] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:58] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:13:58] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:13:59] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:13:59] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:00] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:00] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:01] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:01] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:02] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:02] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:03] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:03] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:04] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:04] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:05] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:05] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:06] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:06] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:07] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:07] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:08] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:08] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:09] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:09] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:10] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:10] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:11] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:11] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:12] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:12] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:13] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:13] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:15] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:15] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:16] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:16] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:17] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:17] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:18] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:18] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:19] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:19] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:20] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:20] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:21] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:21] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:22] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:22] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:23] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:23] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:24] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:24] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:25] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:25] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:26] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:26] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:27] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:27] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:28] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:28] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.4
+
+
+[2018-05-14 05:14:29] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:29] Process /usr/bin/osqueryd	CPU 0.2	MeM 2.2
+
+
+[2018-05-14 05:14:30] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:30] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:31] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:31] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:32] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:32] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:33] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:33] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:34] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:34] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:35] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:35] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:36] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:36] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:37] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:37] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:38] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:38] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:39] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:39] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:41] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:41] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:42] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:42] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:43] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:43] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:44] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:44] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:45] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:45] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:46] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:46] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:47] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:47] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:48] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:48] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:49] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:49] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:50] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:50] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:51] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:51] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:52] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:52] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:53] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:53] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:54] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:54] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:55] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:55] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:56] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:56] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:57] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:57] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:58] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:58] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:14:59] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:14:59] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:00] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:00] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:02] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:02] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:03] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:03] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:04] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:04] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:05] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:05] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:06] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:06] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:07] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:07] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:08] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:08] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:09] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:09] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:10] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:10] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:11] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:11] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:12] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:12] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:13] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:13] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:14] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:14] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:15] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:15] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:16] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:16] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:17] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:17] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:18] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:18] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:19] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:19] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:20] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:20] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:21] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:21] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:22] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:22] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:23] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:23] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:25] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:25] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:26] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:26] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:27] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:27] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:28] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:28] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:29] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:29] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:30] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:30] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:31] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:31] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:32] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:32] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:33] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:33] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:34] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:34] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:35] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:35] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:36] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:36] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:37] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:37] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:38] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:38] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:39] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:39] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:40] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:40] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:41] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:41] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:42] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:42] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:43] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:43] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:44] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:44] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:45] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:45] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:46] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:46] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:48] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:48] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:49] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:49] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:50] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:50] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:51] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:51] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:52] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:52] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:53] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:53] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:54] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:54] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:55] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:55] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:56] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:56] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:57] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:57] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:58] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:58] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:15:59] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:15:59] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:00] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:00] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:01] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:01] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:02] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:02] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:03] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:03] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:04] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:04] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:05] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:05] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:06] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:06] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:07] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:07] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:08] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:08] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:09] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:09] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:10] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:10] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:11] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:11] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:12] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:12] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:14] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:14] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:15] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:15] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:16] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:16] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:17] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:17] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:18] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:18] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.5
+
+
+[2018-05-14 05:16:19] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:19] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:20] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:20] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:21] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:21] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:22] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:22] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:23] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:23] Process /usr/bin/osqueryd	CPU 0.3	MeM 1.5
+
+
+[2018-05-14 05:16:24] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:24] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.5
+
+
+[2018-05-14 05:16:25] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:25] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.5
+
+
+[2018-05-14 05:16:26] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:26] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.5
+
+
+[2018-05-14 05:16:27] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:27] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.5
+
+
+[2018-05-14 05:16:28] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:28] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.5
+
+
+[2018-05-14 05:16:29] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:29] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.5
+
+
+[2018-05-14 05:16:30] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:30] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.6
+
+
+[2018-05-14 05:16:31] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:31] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.6
+
+
+[2018-05-14 05:16:32] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:32] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.6
+
+
+[2018-05-14 05:16:33] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:33] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.6
+
+
+[2018-05-14 05:16:34] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:34] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.6
+
+
+[2018-05-14 05:16:35] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:35] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.6
+
+
+[2018-05-14 05:16:36] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:36] Process /usr/bin/osqueryd	CPU 0.2	MeM 1.6
+
+
+[2018-05-14 05:16:37] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:37] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:39] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:39] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:40] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:40] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:41] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:41] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:42] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:42] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:43] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:43] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:44] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:44] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:45] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:45] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:46] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:46] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:47] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:47] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:48] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:48] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:49] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:49] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:50] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:50] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:51] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:51] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:52] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:52] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:53] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:53] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:54] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:54] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:55] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:55] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:56] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:56] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:57] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:57] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:58] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:58] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:16:59] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:16:59] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:00] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:00] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:01] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:01] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:02] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:02] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:03] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:03] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:04] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:04] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:05] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:05] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:06] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:06] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:07] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:07] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:08] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:08] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:09] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:09] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:10] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:10] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:11] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:11] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:12] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:12] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:14] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:14] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:15] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:15] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:16] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:16] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:17] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:17] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:18] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:18] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:19] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:19] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:20] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:20] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:21] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:21] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:22] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:22] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:23] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:23] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:24] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:24] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:25] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:25] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:26] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:26] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:27] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:27] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:28] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:28] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:30] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:30] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:31] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:31] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+[2018-05-14 05:17:32] Process /usr/bin/osqueryd --flagfile /etc/osquery/osquery.flags --logger_min_stderr 1 --config_path /etc/osquery/osquery.conf	CPU 0.0	MeM 0.3
+[2018-05-14 05:17:32] Process /usr/bin/osqueryd	CPU 0.4	MeM 1.6
+
+
+CPU	MeM
+0.45933333333333337	1.776333333333345
